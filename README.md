@@ -40,7 +40,7 @@ So -p 8080:80 would expose port 80 from inside the container to be accessible fr
 http://192.168.x.x:8080 would show you what's running INSIDE the container on port 80.`
 
 
-* `-p 80` - the port(s)
+* `-p 8010` - the port(s)
 * `-p 5000` - the port(s)
 * `-p 51413` - the port(s)
 * `-p 6881/udp` - the port(s)
