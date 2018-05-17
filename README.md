@@ -15,7 +15,7 @@
 # linuxserver/rutorrent
 [![](https://images.microbadger.com/badges/version/linuxserver/rutorrent.svg)](https://microbadger.com/images/linuxserver/rutorrent "在 microbadger.com获取版本标识")[![](https://images.microbadger.com/badges/image/linuxserver/rutorrent.svg)](https://microbadger.com/images/linuxserver/rutorrent "在 microbadger.com 上获取图标文件")[![Docker Pulls](https://img.shields.io/docker/pulls/linuxserver/rutorrent.svg)][hub][![Docker Stars](https://img.shields.io/docker/stars/linuxserver/rutorrent.svg)][hub][![Build Status](https://ci.linuxserver.io/buildStatus/icon?job=Docker-Builders/x86-64/x86-64-rutorrent)](https://ci.linuxserver.io/job/Docker-Builders/job/x86-64/job/x86-64-rutorrent/).
 
-rtorren的WebUI通用版本。 [Rutorrent](https://github.com/Novik/ruTorrent)
+rtorrent的WebUI通用版本。 [Rutorrent](https://github.com/Novik/ruTorrent)
 
 [![rutorrent](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/rutorrent.jpg)][appurl]
 
