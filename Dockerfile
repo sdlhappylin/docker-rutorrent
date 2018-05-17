@@ -63,5 +63,8 @@ RUN \
 COPY root/ /
 
 # ports and volumes
-EXPOSE 80
+EXPOSE 8010
+EXPOSE 51413
+EXPOSE 6881
+EXPOSE 5000
 VOLUME /config /downloads
